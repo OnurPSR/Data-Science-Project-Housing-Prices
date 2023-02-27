@@ -20,6 +20,6 @@ $\hspace{1cm}$
 
 $\hspace{1cm}$
 
-As a conclusion, it seems that best model to fit this data is XGBOOST Regressor but the data isn't 
+$\Rightarrow$As a conclusion, it seems that best model to fit this data is XGBOOST Regressor but the data isn't 
 sufficent for predicting values because of consisting less features. To recall my hyphothesis, 
 according the histograms, it is true.
